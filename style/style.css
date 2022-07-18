@@ -135,6 +135,28 @@ hr {
     ;
 }
 
+.course-duration {
+    background: #FFE4E8;
+    border-radius: 14.6913px;
+    color: #FF4A60;
+    padding: 5px;
+    font-size: 14.6913px;
+    /* line-height: 20px; */
+    Width: 94.83px;
+    /* Height: 29.83px; */
+    grid-row-gap: 5.42pxs;
+
+
+
+}
+
+
+
+
+
+
+
+
 /*-------------
  Media Queries 
  ----------*/
